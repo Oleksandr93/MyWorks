@@ -1,0 +1,37 @@
+C:\projects\UTOS\UTOS\bin\Debug\UTOS.exe.config
+C:\projects\UTOS\UTOS\bin\Debug\UTOS.exe
+C:\projects\UTOS\UTOS\bin\Debug\UTOS.pdb
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormEditMember.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormEditOrganizatation.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormMembers.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormMain.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormOrganizations.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormPayments.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.Properties.Resources.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.csproj.GenerateResource.Cache
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.exe
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.pdb
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormSearch.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormAbout.resources
+C:\projects\UTOS\UTOS\obj\Debug\UTOS.FormExport.resources
+E:\НУВГП\диплом\Програма\utos_proj_20150623_new\UTOS\bin\Debug\UTOS.exe.config
+E:\НУВГП\диплом\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.exe
+E:\НУВГП\диплом\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.pdb
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\bin\Debug\UTOS.exe.config
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.exe
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.pdb
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\bin\Debug\UTOS.exe
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\bin\Debug\UTOS.pdb
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\bin\Debug\MySql.Data.dll
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.csprojResolveAssemblyReference.cache
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormAbout.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormEditMember.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormEditOrganizatation.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormExport.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormMembers.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormMain.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormOrganizations.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormPayments.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormSearch.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.Properties.Resources.resources
+E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.csproj.GenerateResource.Cache
