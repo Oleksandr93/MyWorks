@@ -1,0 +1,9 @@
+D:\C# Projects\FTP_client\FTP_client\bin\Debug\FTP_client.exe.config
+D:\C# Projects\FTP_client\FTP_client\obj\Debug\FTP_client.csprojResolveAssemblyReference.cache
+D:\C# Projects\FTP_client\FTP_client\obj\Debug\FTP_client.Form1.resources
+D:\C# Projects\FTP_client\FTP_client\obj\Debug\FTP_client.Properties.Resources.resources
+D:\C# Projects\FTP_client\FTP_client\obj\Debug\FTP_client.csproj.GenerateResource.Cache
+D:\C# Projects\FTP_client\FTP_client\bin\Debug\FTP_client.exe
+D:\C# Projects\FTP_client\FTP_client\bin\Debug\FTP_client.pdb
+D:\C# Projects\FTP_client\FTP_client\obj\Debug\FTP_client.exe
+D:\C# Projects\FTP_client\FTP_client\obj\Debug\FTP_client.pdb
