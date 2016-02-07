@@ -1,0 +1,18 @@
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\bin\Debug\My First GUI Project.exe.config
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.csprojResolveAssemblyReference.cache
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My_First_GUI_Project.Form1.resources
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My_First_GUI_Project.Properties.Resources.resources
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.csproj.GenerateResource.Cache
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\bin\Debug\My First GUI Project.exe
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\bin\Debug\My First GUI Project.pdb
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.exe
+D:\Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.pdb
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\bin\Debug\My First GUI Project.exe.config
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.exe
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.pdb
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\bin\Debug\My First GUI Project.exe
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\bin\Debug\My First GUI Project.pdb
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.csprojResolveAssemblyReference.cache
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My_First_GUI_Project.Form1.resources
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My_First_GUI_Project.Properties.Resources.resources
+E:\Projects\C# Projects\C# and ASP.NET Projects\Forms_Projects\My First GUI Project\My First GUI Project\obj\Debug\My First GUI Project.csproj.GenerateResource.Cache
