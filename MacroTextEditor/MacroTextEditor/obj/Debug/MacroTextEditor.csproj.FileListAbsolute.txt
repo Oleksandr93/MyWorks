@@ -1,0 +1,9 @@
+D:\C# Projects\MacroTextEditor\MacroTextEditor\bin\Debug\MacroTextEditor.exe.config
+D:\C# Projects\MacroTextEditor\MacroTextEditor\bin\Debug\MacroTextEditor.exe
+D:\C# Projects\MacroTextEditor\MacroTextEditor\bin\Debug\MacroTextEditor.pdb
+D:\C# Projects\MacroTextEditor\MacroTextEditor\obj\Debug\MacroTextEditor.csprojResolveAssemblyReference.cache
+D:\C# Projects\MacroTextEditor\MacroTextEditor\obj\Debug\MacroTextEditor.Form1.resources
+D:\C# Projects\MacroTextEditor\MacroTextEditor\obj\Debug\MacroTextEditor.Properties.Resources.resources
+D:\C# Projects\MacroTextEditor\MacroTextEditor\obj\Debug\MacroTextEditor.csproj.GenerateResource.Cache
+D:\C# Projects\MacroTextEditor\MacroTextEditor\obj\Debug\MacroTextEditor.exe
+D:\C# Projects\MacroTextEditor\MacroTextEditor\obj\Debug\MacroTextEditor.pdb
