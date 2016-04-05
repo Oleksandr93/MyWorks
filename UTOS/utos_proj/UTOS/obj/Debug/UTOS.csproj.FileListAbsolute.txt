@@ -35,3 +35,6 @@ E:\НУВГП\Бакалаврська\Новая папка\Програма\ut
 E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.FormSearch.resources
 E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.Properties.Resources.resources
 E:\НУВГП\Бакалаврська\Новая папка\Програма\utos_proj_20150623_new\UTOS\obj\Debug\UTOS.csproj.GenerateResource.Cache
+E:\Projects\Git\MyWorks\UTOS\utos_proj\UTOS\bin\Debug\UTOS.exe.config
+E:\Projects\Git\MyWorks\UTOS\utos_proj\UTOS\obj\Debug\UTOS.exe
+E:\Projects\Git\MyWorks\UTOS\utos_proj\UTOS\obj\Debug\UTOS.pdb
