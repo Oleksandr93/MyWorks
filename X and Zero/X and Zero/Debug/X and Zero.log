@@ -1,0 +1,7 @@
+﻿  X and Zero.cpp
+g:\projects\c++ projects\games\x and zero\x and zero\x and zero.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\projects\c++ projects\games\x and zero\x and zero\x and zero.cpp(176): warning C4474: 'printf' : too many arguments passed for format string
+  g:\projects\c++ projects\games\x and zero\x and zero\x and zero.cpp(176): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+g:\projects\c++ projects\games\x and zero\x and zero\x and zero.cpp(100): warning C4715: 'input': not all control paths return a value
+g:\projects\c++ projects\games\x and zero\x and zero\x and zero.cpp(125): warning C4715: 'win': not all control paths return a value
+  X and Zero.vcxproj -> G:\Projects\C++ Projects\Games\X and Zero\Debug\X and Zero.exe

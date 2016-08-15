@@ -1,0 +1,4 @@
+﻿  Snake v1.cpp
+g:\projects\c++ projects\games\snake v1\snake v1\snake v1.cpp(144): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\projects\c++ projects\games\snake v1\snake v1\snake v1.cpp(188): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Snake v1.vcxproj -> G:\Projects\C++ Projects\Games\Snake v1\x64\Debug\Snake v1.exe
