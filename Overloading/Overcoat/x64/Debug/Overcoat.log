@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Overcoat.cpp
+d:\step_proj\c++_proj\2 semestr\3 week\overloading\overloading\overloading\overloading\overcoat\overcoat.cpp(26): error C3861: 'gets': identifier not found
+d:\step_proj\c++_proj\2 semestr\3 week\overloading\overloading\overloading\overloading\overcoat\overcoat.cpp(28): error C3861: 'gets': identifier not found
+  Generating Code...
