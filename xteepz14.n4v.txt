@@ -1,0 +1,66 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Arrays.cpp
+#	new file:   CompShop
+#	new file:   ComputerShop/.vs/sasha-proj-new/v14/.suo
+#	new file:   ComputerShop/Debug/sasha-proj-new.exe
+#	new file:   ComputerShop/Debug/sasha-proj-new.ilk
+#	new file:   ComputerShop/Debug/sasha-proj-new.pdb
+#	new file:   ComputerShop/sasha-proj-new.VC.db
+#	new file:   ComputerShop/sasha-proj-new.sdf
+#	new file:   ComputerShop/sasha-proj-new.sln
+#	new file:   ComputerShop/sasha-proj-new.v12.suo
+#	new file:   ComputerShop/sasha-proj-new/Debug/category.obj
+#	new file:   ComputerShop/sasha-proj-new/Debug/product.obj
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.Build.CppClean.log
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.log
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.obj
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/CL.read.1.tlog
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/CL.write.1.tlog
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/cl.command.1.tlog
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/link.command.1.tlog
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/link.read.1.tlog
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/link.write.1.tlog
+#	new file:   ComputerShop/sasha-proj-new/Debug/sasha-proj-new.tlog/sasha-proj-new.lastbuildstate
+#	new file:   ComputerShop/sasha-proj-new/Debug/shop.obj
+#	new file:   ComputerShop/sasha-proj-new/Debug/stdafx.obj
+#	new file:   ComputerShop/sasha-proj-new/Debug/utils.obj
+#	new file:   ComputerShop/sasha-proj-new/Debug/vc120.idb
+#	new file:   ComputerShop/sasha-proj-new/Debug/vc120.pdb
+#	new file:   ComputerShop/sasha-proj-new/Debug/vc140.idb
+#	new file:   ComputerShop/sasha-proj-new/Debug/vc140.pdb
+#	new file:   ComputerShop/sasha-proj-new/ReadMe.txt
+#	new file:   ComputerShop/sasha-proj-new/category.cpp
+#	new file:   ComputerShop/sasha-proj-new/category.h
+#	new file:   ComputerShop/sasha-proj-new/const.h
+#	new file:   ComputerShop/sasha-proj-new/myshop.bak.txt
+#	new file:   ComputerShop/sasha-proj-new/myshop.txt
+#	new file:   ComputerShop/sasha-proj-new/myshop1.txt
+#	new file:   ComputerShop/sasha-proj-new/product.cpp
+#	new file:   ComputerShop/sasha-proj-new/product.h
+#	new file:   ComputerShop/sasha-proj-new/sasha-proj-new.cpp
+#	new file:   ComputerShop/sasha-proj-new/sasha-proj-new.vcxproj
+#	new file:   ComputerShop/sasha-proj-new/sasha-proj-new.vcxproj.filters
+#	new file:   ComputerShop/sasha-proj-new/sasha-proj-new.vcxproj.user
+#	new file:   ComputerShop/sasha-proj-new/shop.cpp
+#	new file:   ComputerShop/sasha-proj-new/shop.h
+#	new file:   ComputerShop/sasha-proj-new/stdafx.cpp
+#	new file:   ComputerShop/sasha-proj-new/stdafx.h
+#	new file:   ComputerShop/sasha-proj-new/targetver.h
+#	new file:   ComputerShop/sasha-proj-new/utils.cpp
+#	new file:   ComputerShop/sasha-proj-new/utils.h
+#	new file:   Func.cpp
+#	new file:   Matrix.cpp
+#	new file:   Sort.cpp
+#	new file:   Source1.cpp
+#	new file:   Source111.cpp
+#
+# Changes not staged for commit:
+#	modified:   CompShop (untracked content)
+#
+
