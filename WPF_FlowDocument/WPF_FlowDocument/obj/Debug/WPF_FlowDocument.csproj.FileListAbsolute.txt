@@ -1,0 +1,14 @@
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\bin\Debug\WPF_FlowDocument.exe.config
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\bin\Debug\WPF_FlowDocument.exe
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\bin\Debug\WPF_FlowDocument.pdb
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument.csprojResolveAssemblyReference.cache
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\MainWindow.g.cs
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\App.g.cs
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument_MarkupCompile.cache
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument_MarkupCompile.lref
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\MainWindow.baml
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument.g.resources
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument.Properties.Resources.resources
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument.csproj.GenerateResource.Cache
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument.exe
+F:\STEP_Proj\C#\WPF\HomeWork\WPF_FlowDocument\WPF_FlowDocument\obj\Debug\WPF_FlowDocument.pdb
