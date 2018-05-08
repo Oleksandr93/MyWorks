@@ -1,5 +1,0 @@
-﻿  PacMan.cpp
-g:\projects\c++ projects\games\pacman\pacman\pacman.cpp(55): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-g:\projects\c++ projects\games\pacman\pacman\pacman.cpp(701): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
-g:\projects\c++ projects\games\pacman\pacman\pacman.cpp(707): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  PacMan.vcxproj -> G:\Projects\C++ Projects\Games\PacMan\Debug\PacMan.exe
